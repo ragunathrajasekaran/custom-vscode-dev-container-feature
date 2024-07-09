@@ -1,0 +1,7 @@
+{
+    "name": "Persist History",
+    "id": "persist-history",
+    "version": "1.0.0",
+    "description": "Persists bash history across container restarts",
+    "options": {}
+}
