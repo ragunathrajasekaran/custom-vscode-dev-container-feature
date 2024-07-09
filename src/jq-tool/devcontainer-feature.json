@@ -1,0 +1,7 @@
+{
+    "name": "JQ Tool",
+    "id": "jq-tool",
+    "version": "1.0.0",
+    "description": "Installs the jq JSON processing tool",
+    "options": {}
+}

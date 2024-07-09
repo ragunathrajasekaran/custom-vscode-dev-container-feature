@@ -15,7 +15,7 @@ create_tarball() {
 }
 
 # Create tarballs for each feature
-create_tarball "persist-history"
-# create_tarball "jq-tool"
+# create_tarball "persist-history"
+create_tarball "jq-tool"
 
 echo "All features have been bundled successfully!"
